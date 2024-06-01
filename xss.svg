@@ -7,6 +7,8 @@
        zoomAndPan="disable"
        xmlns="http://www.w3.org/2000/svg"
        xmlns:xlink="http://www.w3.org/1999/xlink"
+       onload="alert(document.domain)"
+       onclick="alert(document.domain)"
        xml:space="preserve">
     <circle cx="50" cy="50" r="45" fill="green" id="foo" o="foo"/>
 
